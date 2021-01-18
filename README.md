@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![gitter](https://img.shields.io/gitter/room/elitizon/community?color=blueviolet&style=flat-square)](https://gitter.im/elitizon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-# Elitizon Gatsby template with typescript,tailwind, and @emotion styled components react-helmet support v1.0 ✨
+# Elitizon Gatsby template with typescript,tailwind, and react-helmet support v1.0 ✨
 
 
 It implements the following functionalities:
@@ -9,7 +9,6 @@ It implements the following functionalities:
 - Support of [TailwindCSS](https://tailwindcss.com/) 2.0.3
 - Support of [Typescript](https://www.typescriptlang.org/) 4.1.3
 - Svg import as ReactComponent thanks to SVG loader
-- Styled components thanks to [twin.macro](https://www.npmjs.com/package/twin.macro)  and [@emotion/styled](https://emotion.sh/docs/styled)
 
 ## 🔌 Available Scripts
 
