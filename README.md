@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![gitter](https://img.shields.io/gitter/room/elitizon/community?color=blueviolet&style=flat-square)](https://gitter.im/elitizon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-# Simple Gatsby template with typescript,tailwind,and react-helmet support v1.0 ✨
+# Simple Gatsby template with typescript,tailwind,and react-helmet support ✨
 
 
 It implements the following functionalities:
