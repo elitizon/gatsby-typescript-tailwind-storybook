@@ -1,5 +1,5 @@
-import { wrapRootElement } from "./src/components/root-wrapper"
+import { wrapRootElement } from './src/components/root-wrapper'
 
-import "./src/styles/global.css"
+import './src/styles/global.css'
 
 export { wrapRootElement }

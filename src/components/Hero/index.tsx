@@ -1,18 +1,18 @@
-import React from "react"
-import Logo from "../../assets/images/square-logo.svg"
+import React from 'react'
+import Logo from '../../assets/images/square-logo.svg'
 
 export interface HeroProps {
   title?: string
 }
 
 export const Hero: React.FC<HeroProps> = (
-  { title } = { title: "A simple Tailiwind template" }
+  { title } = { title: 'A simple Tailiwind template' },
 ) => {
   return (
     <>
       <div className="w-60 h-60 flex flex-col items-center justify-center mx-auto">
         <a href="https://www.elitizon.com" hrefLang="en">
-          <Logo/>
+          <Logo />
         </a>
       </div>
 
