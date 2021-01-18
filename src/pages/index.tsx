@@ -1,5 +1,6 @@
 import React from "react"
 import Helmet from "react-helmet"
+import { Hero } from "../components/Hero"
 
 import { graphql, useStaticQuery } from "gatsby"
 
@@ -24,9 +25,7 @@ const IndexPage: React.FC<{}> = () => {
         <title>{data.site.siteMetadata.title}</title>
         <meta name="description" content={data.site.siteMetadata.description} />
       </Helmet>
-      <div className="h-screen w-full bg-pink-200 mx-auto flex-row justify-center">
-        <span className="text-3xl text-gray-600">Hello Gatsby !</span>
-      </div>
+      <Hero title={data.site.siteMetadata.title}/>
     </>
   )
 }
