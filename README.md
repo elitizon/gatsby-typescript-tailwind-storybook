@@ -3,7 +3,6 @@
 
 # Simple Gatsby template with typescript,tailwind,and react-helmet support ✨
 
-
 It implements the following functionalities:
 
 - Support of [TailwindCSS](https://tailwindcss.com/) 2.0.3
@@ -35,11 +34,15 @@ Your app is ready to be deployed!
 
 Clean the `public`folder
 
-
-### `yarn serve` 
+### `yarn serve`
 
 Serve the file from `public` folder.<br />
 Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
+
+### `yarn storybook`
+
+Serve a storybook.
+Open [http://localhost:6006/](http://localhost:6006/) to view the storybook in the browser.
 
 ## 📚 Learn More
 
